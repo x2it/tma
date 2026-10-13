@@ -1,5 +1,7 @@
 # TMA · 电话营销助理
 
+**Current version / 当前版本：1.6.3**（已归档停止更新，与 `app/build.gradle.kts` 的 `versionName` 一致）
+
 > **⚠️ 本项目已停止更新，归档保留。**
 >
 > TMA 是早期的纯单机版电销助手，数据全部存在手机本地。后续已由 **[知行同步助手](https://github.com/x2it/zhixing-sync-server)** 接替——在保留拨号跟进核心体验的基础上，增加了云端同步、通讯录/短信/通话双向备份、标签分层体系和 Web 管理端。
@@ -174,4 +176,4 @@ TMA 已归档，其功能由 **知行同步助手** 系列接替：
 
 ## License
 
-[MIT](LICENSE) © 2026 知行工作室 Zhixing Studio · [https://w3b.pub/](https://w3b.pub/) · support@w3b.pub
+[AGPL-3.0](LICENSE) © 2026 知行工作室 Zhixing Studio · [https://w3b.pub/](https://w3b.pub/) · support@w3b.pub
