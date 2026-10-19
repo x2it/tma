@@ -81,7 +81,7 @@ TMA 是一款面向房产经纪人/电话销售人员的 Android 应用。核心
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/x2it/TMA.git
+git clone https://github.com/x2it/tma-telemarketing-assistant.git
 cd TMA
 
 # 2. 配置 SDK 路径
